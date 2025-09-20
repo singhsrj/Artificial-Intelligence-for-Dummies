@@ -81,6 +81,6 @@ The world's largest data science community offering: **Competitions**, **Dataset
 
 *Curated with ❤️ for the AI learning community*
 
-**Connect with me on LinkedIn**: [Your LinkedIn Profile]
+**Connect with me on LinkedIn**: **🔗 [https://www.linkedin.com/in/singhsrj/](https://www.linkedin.com/in/singhsrj/)** 
 
 *Feel free to suggest additional resources or improvements to this collection!*
